@@ -1,0 +1,16 @@
+a="Rajat bais"
+
+print(a.capitalize())
+print(a.upper())
+print(a.lower())
+print(a.isalnum())
+print(a.isalpha())
+print(a.isascii())
+print(a.encode())
+print(a.count("a"))
+print(a.startswith("Rajat"))
+print(a.endswith("bais"))
+print(a.find("ai"))
+print(len(a))
+print(a.replace("R","M"))
+print(a.find("i"))
